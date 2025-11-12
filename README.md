@@ -1,2 +1,2 @@
-# roject1_-_-_-_-
+# project1_Gafarov_Artem_1
 Text adventure game - Labyrinth Treasure
